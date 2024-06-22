@@ -1,5 +1,5 @@
 # Star Stellar Classification ML Project
-In this project, the aim is to classify stars based on various features in the Star Stellar Class dataset which consists of 100000 observations and 18 features. I trained different ML models such as SVM Classifier, Navie Bayes Classifier, Decision Tree Classifier, Random Forest Classifier, and XGboost Classifier and compared the performance of models on test dataset. Also, done hyperparameter tuning to further improve the performance.
+In this project, the aim is to classify stars based on various features in the Star Stellar Class dataset which consists of 100000 observations and 18 features. Trained different ML models such as SVM Classifier, Navie Bayes Classifier, Decision Tree Classifier, Random Forest Classifier, and XGboost Classifier and compared the performance of models on test dataset. Also, done hyperparameter tuning to further improve the performance.
 
 ## Overview
 
