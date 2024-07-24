@@ -10,7 +10,7 @@ In astronomy, stellar classification is the classification of stars based on the
 The dataset is downloaded from (https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download&select=star_classification.csv). The data consists of 100,000 observations of space taken by the SDSS (Sloan Digital Sky Survey). Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.
 
 
-## Sturucture of project:
+## Structure of project:
 
 The following steps are taken in this work:
 
